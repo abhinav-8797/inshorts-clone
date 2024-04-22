@@ -1,0 +1,13 @@
+.nav {
+  height: 71px;
+  box-shadow: 0px 1px 8px #888;
+  display: flex;
+  align-items: center;
+}
+.img {
+  cursor: pointer;
+}
+.icon {
+  flex: 0.5;
+  display: flex;
+}
